@@ -1,6 +1,6 @@
 # CocosCrear jsc decrypt
 
-## 对CocosCreator构建后生成的jsc文件解密成js文件，需要构建时的 脚本加密密钥
+对CocosCreator构建后生成的jsc文件解密成js文件，需要构建时的 脚本加密密钥
 
 ### 1.安装node.js
 ### 2.安装npm包
